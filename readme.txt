@@ -1,3 +1,0 @@
-Welcome!
-So far so good
-Trying diff...
